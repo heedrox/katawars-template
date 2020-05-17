@@ -45,4 +45,6 @@ Consejos:
 - Algunas cartas bonus son contradictorias entre sí, depende de cómo se implementen. Quizás no es posible implementarlas todas, pero en teoría lo es.
 - Un usuario puede devolver el código, tests o ambos, sin ninguna modificación, si así lo desea, ya que puede considerar que el test no está correcto o es imposible de resolverse. Eso sí, ¡aseguraos de que llegáis a un acuerdo, o ninguno de los dos conseguirá volver al destino!
 
+# Contacta conmigo
 
+Contacta conmigo si quieres hacer de betatester. Estoy depurando actualmente las instrucciones de las 14 cartas, por lo que necesito parejas que quieran probar esta dinámica.
