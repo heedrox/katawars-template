@@ -1,0 +1,21 @@
+{
+  "name": "katawars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lintfix": "eslint . --fix",
+    "test": "jest",
+    "tdd": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jest": "^23.13.0",
+    "jest": "^26.0.1"
+  }
+}
